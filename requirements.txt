@@ -1,0 +1,3 @@
+tkinter  # Tkinter is included with Python, but can be specified for clarity if needed.
+matplotlib
+numpy
