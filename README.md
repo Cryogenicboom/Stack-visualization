@@ -2,21 +2,9 @@
 
 This project implements a simple stack data structure using an array and provides an interactive graphical user interface (GUI) using Tkinter. Users can perform stack operations such as push, pop, and peek through the GUI.
 
-## Project Structure
-
-```
-tkinter-stack-gui
-├── src
-│   ├── main.py        # Entry point of the application
-│   ├── stack.py       # Stack implementation using an array
-│   └── gui.py         # GUI management using Tkinter
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
-```
-
 ## Requirements
 
-To run this project, you need Python installed on your machine. The project uses Tkinter, which is included with most Python installations. 
+To run this project, you need Python installed on your machine. The project uses Tkinter, which is included with most Python installations. Matplotlib and Numpy.
 
 ## Installation
 
@@ -35,7 +23,7 @@ To run this project, you need Python installed on your machine. The project uses
 
 1. Run the application:
    ```
-   python src/main.py
+   python main.py
    ```
 
 2. The GUI will open, allowing you to interact with the stack. You can:
